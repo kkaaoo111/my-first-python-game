@@ -20,5 +20,6 @@ def start_game():
         except ValueError:
             print("請輸入有效的整數。")
 
-if __name__ == "__main__":
+if __name__=="__main__":
     start_game()
+
